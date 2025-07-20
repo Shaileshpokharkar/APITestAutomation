@@ -105,9 +105,3 @@ public void getUser_ValidId_ReturnsUser() {
 **Shailesh Pokharkar**  
 [GitHub Profile](https://github.com/Shaileshpokharkar)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
