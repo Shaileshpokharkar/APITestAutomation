@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ApiSuite" verbose="1" parallel="tests" thread-count="2">
+  <test name="API Tests">
+    <classes>
+      <class name="tests.GetUserTests"/>
+      <class name="tests.PostUserTests"/>
+      <class name="tests.PutUserTests"/>
+      <class name="tests.DeleteUserTests"/>
+    </classes>
+  </test>
+</suite>
